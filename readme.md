@@ -6,11 +6,12 @@ Let's build human-centered government together. We are looking for people to joi
 
 - [Sr Software Engineer](https://github.com/govbloom/opportunities/blob/master/SrSE.md)
 - [Product Manager](https://github.com/govbloom/opportunities/blob/master/PM.md)
+- [Content Writer/Strategist](https://github.com/govbloom/opportunities/blob/master/Content.md)
 
 We will soon be looking for:
 
 - User Experience designers and researchers
-- Content strategists, creators, and designers
+- Visual designers and storytellers
 - Project leads
 
 ### How to apply
