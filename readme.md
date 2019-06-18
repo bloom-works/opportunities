@@ -4,10 +4,10 @@
 
 Let's build human-centered government together. We are looking for people to join our team:
 
-- [Sr Software Engineer](https://github.com/govbloom/opportunities/blob/master/softwareengineer.md)
-- [Product Manager](https://github.com/govbloom/opportunities/blob/master/productmanager.md)
-- [Content Writer/Strategist](https://github.com/govbloom/opportunities/blob/master/contentstrategist.md)
-- [Visual Designer](https://github.com/govbloom/opportunities/blob/master/visualdesigner.md)
+- [Sr Software Engineer](https://github.com/govbloom/opportunities/blob/master/SoftwareEngineer.md)
+- [Product Manager](https://github.com/govbloom/opportunities/blob/master/ProductManager.md)
+- [Content Writer/Strategist](https://github.com/govbloom/opportunities/blob/master/ContentStrategist.md)
+- [Visual Designer](https://github.com/govbloom/opportunities/blob/master/VisualDesigner.md)
 
 We will soon be looking for:
 
