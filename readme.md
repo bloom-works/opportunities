@@ -7,7 +7,7 @@ Let's build human-centered government together. We are looking for people to joi
 - [Sr Software Engineer](https://github.com/govbloom/opportunities/blob/master/SoftwareEngineer.md)
 - [Visual Designer](https://github.com/govbloom/opportunities/blob/master/VisualDesigner.md)
 - [Talent Specialist](https://github.com/govbloom/opportunities/blob/master/TalentSpecialist.md)
-- [Communications Specialist](https://github.com/govbloom/opportunities/blob/master/CommunicationsSpecialist.md)
+- [Communication Specialist](https://github.com/govbloom/opportunities/blob/master/CommunicationSpecialist.md)
 
 We will soon be looking for:
 
