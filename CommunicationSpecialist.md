@@ -5,10 +5,6 @@ Our mission is to create human-centered government. We’re a coalition of digit
 
 We are looking for an experienced Communication Specialist to work on a cross-functional team — that includes our government partners — to deliver better outcomes for stakeholders. We’re partnering with the State of Connecticut to help them stand up a digital service team with an initial focus on services for families and young children. 
 
-
-### About the project
-We’ve partnered with the State of Connecticut to build and improve services critical to families with young children, and stand up a digital service team ready to roll with projects that will most improve services for high needs populations. We’re working with the Department of Administrative Services and the Office of Early Childhood to make Connecticut a shining example of what’s possible when we build (or rebuild) services from citizen’s needs upwards. 
-
 ### In this role, you will 
 #### Build awareness and share what we learn
 - Find the story in the work we’re doing
