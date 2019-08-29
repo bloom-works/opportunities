@@ -1,12 +1,9 @@
 # Talent Specialist
 ### Remote with occasional trips to Hartford, CT
 
-At Bloom, we partner with state and local governments to design and build digital services. We **make government work** like we all think it should, **fix services**  that have become siloed or ineffective, and **increase the digital muscle of the organizations we work with** so they have the capacity to build and own their own tech futures.   
+Our mission is to create human-centered government. We’re a coalition of digital gov alums who partner with state and local governments to design and build digital services that improve people’s lives. We help our government partners build internal, sustainable capacity to transform how they do business.   
 
-We are looking for an experienced Talent Specialist to work on a cross-functional team to work collaboratively with our government partners to deliver better outcomes for those they serve. We’ve partnered with the State of Connecticut to help them stand up a digital service team with an initial focus on services for families and young children. 
-
-### About the project
-We’ve partnered with the State of Connecticut to build and improve services critical to families with young children, and stand up a digital service team ready to roll with projects that will most improve services for high needs populations. We’re working with the Department of Administrative Services and the Office of Early Childhood to make Connecticut a shining example of what’s possible when we build (or rebuild) services from citizen’s needs upwards. 
+We are looking for an experienced Talent Specialist to work on a cross-functional team — that includes our government partners — to deliver better outcomes for stakeholders. We’re partnering with the State of Connecticut to help them stand up a digital service team with an initial focus on services for families and young children. 
 
 ### In this role, you will 
 - **Identify gap to increase digital service capacity** in existing resources and talent-related processes (e.g., hiring, onboarding)
@@ -21,11 +18,15 @@ We’ve partnered with the State of Connecticut to build and improve services cr
 - **Demonstrate a passion for learning**, embrace change, and ask insightful questions particularly about culture, business needs, and IT capabilities
 
 ### We’re looking for
-- At least 3 years of experience in this domain, and ideally time spent working to modernize talent practices in a unionized environment 
+- At least 3 years of experience in this domain
+- Comfort in an environment optimized for product delivery: you will be part of a product team and we believe talent is a product
+- Familiarity modernizing talent practices alongside unions, and union requirements
 - Knowledge for improvements or experiments done in other organizations with respect to modernizing the workforce
+- Desire to take a project from start to finish
 - Strong organizational skills and attention to detail
 - Ability to communicate clearly and increase transparency, with a strong competency in situational awareness and conflict resolution
 - An adaptive, proactive, empathetic, tenacious, and positive mindset
+
 
 ### How to apply
 There are a variety of roles and ways to join this project. If you think you’re a good fit please send a resume and brief introduction to hello@govbloom.com. 
