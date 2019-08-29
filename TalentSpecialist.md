@@ -6,7 +6,7 @@ Our mission is to create human-centered government. We’re a coalition of digit
 We are looking for an experienced Talent Specialist to work on a cross-functional team — that includes our government partners — to deliver better outcomes for stakeholders. We’re partnering with the State of Connecticut to help them stand up a digital service team with an initial focus on services for families and young children. 
 
 ### In this role, you will 
-- **Identify gap to increase digital service capacity** in existing resources and talent-related processes (e.g., hiring, onboarding)
+- **Increase digital service capacity** by identifying gaps in existing resources and talent-related processes (e.g., hiring, onboarding)
 - **Build support for incorporating modern job descriptions and hiring practices in government**, while honoring policies regarding unions, EEO, etc.
 - **Implement strategies for building digital service capacity** among the existing workforce
 - **Develop a playbook** with the State of Connecticut to modernize their workforce.
