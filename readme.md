@@ -2,7 +2,7 @@
 
 ### Interested in joining us?
 
-Let's build human-centered government together. We are looking for people to join our team:
+Let's build human-centered services together. We are looking for people to join our team:
 
 - [UX Designer](https://github.com/govbloom/opportunities/blob/master/UX%20Designer.md)
 
