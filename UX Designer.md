@@ -3,7 +3,7 @@
 
 Our mission is to create human-centered services. We’re a coalition of digital gov alums who partner with governments and like-minded organizations to design and build digital services that improve people’s lives. We help our partners build internal, sustainable capacity to transform how they do business.   
 
-We are looking for a User Experience Designer and Researcher to work on a cross-functional team — that includes our partners — to deliver better outcomes for foster youth. We’re partnering with a nonprofit to help research and design how we might support youth aging out of foster care. This is an impactful project to join and support a passionate and intelligent team. 
+We are looking for a User Experience Designer and Researcher to work on a cross-functional team — that includes our partners — to deliver better outcomes for youth aging out of Foster Care. We’re partnering with a nonprofit organization to help research and design how we might support youth aging out of foster care. This is an impactful project supporting a passionate and intelligent team. 
 
 **In this role, you will**
 - Help facilitate and empower foster youth to mobilize their network for support
