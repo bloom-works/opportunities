@@ -4,7 +4,7 @@
 
 Let's build human-centered services together. We are looking for people to join our team:
 
-- [UX Designer](https://github.com/govbloom/opportunities/blob/master/UX%20Designer.md)
+- [Data Engineer](https://github.com/govbloom/opportunities/blob/master/Data%20Engineer.md)
 
 ### How to apply
 If you are interested in working with us, reach out at hello@govbloom.com. Send us your resume, and a little about why you want to work with us.
