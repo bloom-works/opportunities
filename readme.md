@@ -4,10 +4,10 @@
 
 Let's build human-centered services together. We are looking for people to join our team:
 
-- User Experience Researcher
-- Product Manager
-- Engineer/Technologist
-- Writer
+- [Product Manager](product-manager.md)
+- [Engineer](engineer.md)
+- [Writer](writer.md)
+- [User Experience Researcher](user-experience-researcher.md)
 
 ### How to apply
 If you are interested in working with us, reach out at hello@bloomworks.digital. Send us your resume, and a little about why you want to work with us.
