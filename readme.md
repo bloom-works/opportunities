@@ -1,19 +1,17 @@
 # Opportunities at Bloom
 
+### About Bloom 
+Our mission is to create human-centered services. We’re a coalition of digital gov alums who partner with governments and social impact organizations to design and build digital services that improve people’s lives. We help our partners build the capacity to transform how they deliver services now and in the future.
+
+### Our Team 
+We’re deliberate about the projects we take on. We make sure that all members of the Bloom team work on projects that are collaborative, interesting, and impactful. Learn more about who we are at [BloomWorks.digital](https://www.bloomworks.digital/). 
+
 ### Interested in joining us?
 
-Let's build human-centered services together. We are looking for people to join our team:
+We are looking for people to join our team:
 
 - [Product Manager](product-manager.md)
 - [Engineer](engineer.md)
 - [Writer](writer.md)
 - [User Experience Researcher](user-experience-researcher.md)
 
-### How to apply
-If you are interested in working with us, reach out at hello@bloomworks.digital. Send us your resume, and a little about why you want to work with us.
-
-### What we do
-We provide a spectrum of support — from immersive workshops to highly tailored technical assistance.
-
-### Who we are
-We are a team of seasoned public servants, technologists, and designers looking to transform how government designs and builds services. Learn more about who we are at [BloomWorks.digital](https://www.bloomworks.digital/).
